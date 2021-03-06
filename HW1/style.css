@@ -1,0 +1,45 @@
+.navbar-brand {
+    font-size: 250%;
+    font-style:oblique;
+    font-weight: bold;
+}
+.card{
+    border-color: lightgray;
+}
+.btn{
+    width:100%;
+    border-color: lightgray;
+}
+
+.card-body{
+    background-color: white;
+    border-color: lightgray;
+}
+.panel h4{
+    margin-top: 10px;
+}
+.badge{
+    padding: 8px;
+    margin:2px;
+}
+.img-description{
+    font-size: 125%;
+    font-weight: bold;
+}
+.thumbnail{
+    text-align: center;
+    font-weight: bold;
+}
+.img-thumbnail{
+    display: block;
+    margin:auto;
+}
+.media-img{
+    border-radius: 50%;
+}
+.copyright{
+    display:block
+}
+.slash{
+    display: block;
+}
